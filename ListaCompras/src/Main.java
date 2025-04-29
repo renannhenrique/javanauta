@@ -2,8 +2,12 @@ import javax.swing.*;
 import java.util.Map;
 import java.util.TreeMap;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/**
+ * Lista de Compras
+ * @author Renan H.
+ * @version 1.0
+ * @since 29/04/2025
+ */
 public class Main {
     public static void main(String[] args) {
 
